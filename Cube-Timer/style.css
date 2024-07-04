@@ -1,0 +1,39 @@
+#time{
+    position: relative;
+    font-size: 8em;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40vh;
+    background-color: white;
+    border: none;
+    background-color: black;
+    color: white;
+
+}
+#scramble{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+#scrambleButton{
+    position: relative;
+    height: 50px;
+    width: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    border: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(50, 50, 50);
+}
+.divs{
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+body{
+    background-color: black;
+}
